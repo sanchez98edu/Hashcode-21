@@ -1,1 +1,1 @@
-# Hashcode-21
+Código utilizado para el reto Hashcode 2021.
